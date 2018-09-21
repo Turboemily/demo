@@ -1,5 +1,6 @@
 let windowInnerwidth=window.innerWidth;
 //修改1
+//修改2
 //let windowDpr = window.devicePixelRatio;
 //图形时间轴
 export let timeData =  [[1,25,1],[2,0.110,1],[3,217,1],[4,310,1]]
