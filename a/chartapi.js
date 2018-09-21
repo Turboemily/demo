@@ -3,6 +3,7 @@ let windowInnerwidth=window.innerWidth;
 //修改2
 //let windowDpr = window.devicePixelRatio;
 //图形时间轴
+//修改3
 export let timeData =  [[1,25,1],[2,0.110,1],[3,217,1],[4,310,1]]
 export function typeLine(type) {
   let params=[":00:00",":01:00",":02:00(生效)",":03:00(结束)"];
